@@ -20,7 +20,7 @@ Since its release, DLRadioButton has become the most popular radio buttons contr
 *	Option 1: simply put `DLRadioButton.h` and `DLRadiobutton.m` in your project.
 *	Option 2: add `pod 'DLRadioButton', '~> 1.4'` to your `Podfile`.
 *	Option 3: add `github "DavydLiu/DLRadioButton" ~> 1.4` to your `Cartfile`.
-*   Option 4: add `https://github.com/DavydLiu/DLRadioButton` as a package dependency.
+*	Option 4: add `https://github.com/DavydLiu/DLRadioButton` as a package dependency.
 
 #### To add radio buttons in interface builder:
 
