@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [1.4.13](https://github.com/DavydLiu/DLRadioButton/releases/tag/1.4.13) (03/25/2024)
+* Add SPM support.
+
 ## [1.4.12](https://github.com/DavydLiu/DLRadioButton/releases/tag/1.4.12) (04/19/2018)
 * Move selection inversion logic from `setSelect` to `touchUpInside` for multiple selection buttons
 * Break otherButtons retain cycle

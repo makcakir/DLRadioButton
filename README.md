@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/cocoapods/l/DLRadioButton.svg?style=flat)](http://cocoadocs.org/docsets/DLRaidoButton)
 [![Platform](https://img.shields.io/cocoapods/p/DLRadioButton.svg?style=flat)](http://cocoadocs.org/docsets/DLRadioButton)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![SPM compatible](https://img.shields.io/badge/SPM-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
 
 `DLRadioButton` is an easy to use and highly customizable radio buttons control for iOS. It's a subclass of `UIButton`, and works smoothly with both `Objective-C` and `Swift`.
 
@@ -19,6 +20,7 @@ Since its release, DLRadioButton has become the most popular radio buttons contr
 *	Option 1: simply put `DLRadioButton.h` and `DLRadiobutton.m` in your project.
 *	Option 2: add `pod 'DLRadioButton', '~> 1.4'` to your `Podfile`.
 *	Option 3: add `github "DavydLiu/DLRadioButton" ~> 1.4` to your `Cartfile`.
+*   Option 4: add `https://github.com/DavydLiu/DLRadioButton` as a package dependency.
 
 #### To add radio buttons in interface builder:
 
